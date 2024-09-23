@@ -3,7 +3,7 @@
 ;; Copyright (C) port19
 
 ;; Author: port19 <port19@port19.xyz>
-;; Version: 1.0.0
+;; Version: 1.0.1
 ;; Package-Requires: ((emacs "24.4") (eros "0.1.0") (inspector "0.38"))
 ;; SPDX-License-Identifier: LGPL-3.0-or-later
 ;; Keywords: convenience, lisp, tool, debugging, development
@@ -26,11 +26,14 @@
 
 ;;; Commentary:
 
-;; This package provides glue between the popular elisp development packages eros and inspector.
-;; No longer do you have to choose between an evaluation overlay and a nice representation of evaluation results.
+;; This package provides glue between the popular elisp development
+;; packages eros and inspector.  No longer do you have to choose
+;; between an evaluation overlay and a nice representation of
+;; evaluation results.
 
-;; `eros-inspector-eval-last-sexp' combines `eros-eval-last-sexp' and `inspector-inspect-last-sexp'
-;; `eros-inspector-eval-defun' combines `eros-eval-defun' and `inspector-inspect-defun'
+;; `eros-inspector-eval-last-sexp' combines `eros-eval-last-sexp' and
+;; `inspector-inspect-last-sexp' `eros-inspector-eval-defun' combines
+;; `eros-eval-defun' and `inspector-inspect-defun'
 
 ;;; Code:
 

@@ -1,9 +1,7 @@
 # eros-inspector
 
-<!--
 [![MELPA](https://melpa.org/packages/eros-inspector-badge.svg)](https://melpa.org/#/eros-inspector)
 [![MELPA Stable](https://stable.melpa.org/packages/eros-inspector-badge.svg)](https://stable.melpa.org/#/eros-inspector)
--->
 
 *Glue between eros and inspector*
 
@@ -17,10 +15,6 @@ No longer do you have to choose between an evaluation overlay and a nice represe
 
 ### Installation
 
-`eros-inspector` is not yet available on MELPA and MELPA Stable.
+`eros-inspector` is available on MELPA and MELPA Stable.
 
-Working on it.
-
-<!--
 Install it like you would any other emacs package.
--->
