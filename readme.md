@@ -18,3 +18,9 @@ No longer do you have to choose between an evaluation overlay and a nice represe
 `eros-inspector` is available on MELPA and MELPA Stable.
 
 Install it like you would any other emacs package.
+
+### Configuration
+
+I highly recommend setting `inspector-switch-to-buffer` to `nil`.
+
+To get the most out of the emacs inspector, I suggest you keep it open at all times in a small side window.
