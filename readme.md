@@ -1,4 +1,4 @@
-# eros-inspector
+# Eros Inspector
 
 [![MELPA](https://melpa.org/packages/eros-inspector-badge.svg)](https://melpa.org/#/eros-inspector)
 [![MELPA Stable](https://stable.melpa.org/packages/eros-inspector-badge.svg)](https://stable.melpa.org/#/eros-inspector)
